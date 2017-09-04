@@ -12,7 +12,7 @@
 
 class ShiftRegister {
 	public:
-		ShiftRegister(uint8_t DAT, uint8_t SH, uint8_t ST, int n=1)
+		ShiftRegister(uint8_t DAT, uint8_t SH, uint8_t ST, uint8_t n=1)
 			: DAT(DAT), SH(SH), ST(ST), n(n), buffer(new uint8_t[n])
 		{
 			pinMode(DAT, OUTPUT);
