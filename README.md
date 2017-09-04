@@ -9,5 +9,5 @@ Digital input/output with 74HC595
 
 ---
 
-MIT License © 2017 Daniel M. de Lima
+MIT License © 2017 Daniel Lima <danielm@nanohub.tk>
 
