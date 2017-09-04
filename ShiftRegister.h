@@ -6,7 +6,7 @@
  *   (should be tied together) and ST as input pin, with push-
  *   buttons connected between outputs and ST input pin.
  *
- * MIT License © 2017 Daniel M. de Lima
+ * MIT License © 2017 Daniel Lima <danielm@nanohub.tk>
  */
 #pragma once
 
